@@ -1,0 +1,114 @@
+@media (max-width: 84em) {
+  .icon-img {
+    font-size: 6rem;
+  }
+}
+
+@media (max-width: 75em) {
+  html {
+    font-size: 56.25%;
+  }
+
+  h1 {
+    font-size: 5.2rem;
+  }
+
+  h2 {
+    font-size: 4.4rem;
+  }
+
+  .container-form {
+    width: 90%;
+    height: 90%;
+  }
+}
+
+@media (max-width: 59em) {
+  html {
+    font-size: 50%;
+  }
+  
+  .hero {
+    height: 80vh;
+  }
+
+  .hero .content {
+    height: 105%;
+  }
+
+  .heading-primary {
+    font-size: 4.4rem;
+  }
+
+ .heading-secondary {
+    font-size: 3.6rem;
+  }
+
+  .navbar .logo {
+    font-size: 4.4rem;
+  }
+
+  .heading-title {
+    font-size: 4.4rem;
+  }
+
+  .main-nav-link {
+    font-size: 1.6rem;
+  }
+
+  p {
+    font-size: 1.6rem;
+  }
+
+  .about-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 1.4;
+  }
+
+  .about-content .about-img {
+    display: none;
+  }
+
+  .about-icons .icon-img {
+    font-size: 3rem;
+  }
+
+  .about-content .about-me {
+    font-size: 2rem;
+    text-align: center;
+  }
+
+  .contact-title {
+    font-size: 4.4rem;
+  }
+
+  .contact-form {
+    min-width: 65rem;
+  }
+
+  .text-fields {
+    min-width: 100%;
+    margin: 0 auto;
+  }
+
+  .lead {
+    text-align: center;
+  }
+
+  .footer-link .social-icon {
+    font-size: 3.6rem;
+  }
+}
+
+@media (max-width: 49em) {
+  .main-nav-link {
+    font-size: 1.6rem;
+  }
+  
+ .about-icons .icon-img {
+    font-size: 2.4rem;
+  }
+
+}
